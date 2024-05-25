@@ -1,0 +1,27 @@
+/* Don't change the existing CSS. */
+
+#outer-box {
+  background-color: purple;
+}
+
+.box {
+  background-color: #33E0FF;
+  padding: 10px;
+}
+
+.inner-box {
+  background-color: #FF33E0;
+}
+
+p {
+  color: #3B4A68;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text {
+  color: white;
+}
+#rey{
+text-align: right; 
+}
